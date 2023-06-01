@@ -1,0 +1,10 @@
+.header {
+    background-color: rgb(99, 89, 89);
+    display: flex;
+    align-items: center;
+    margin-bottom: 100px;
+    padding: 200px;
+}
+.user-link{
+    color: white;
+}
