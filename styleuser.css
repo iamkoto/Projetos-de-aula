@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    align-items: center;
+
+    padding: 20px;;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;;
+    background-color: rgb(99, 89, 89);
+}
+
+.carrinho {
+    display: flex;
+    align-items: center;
+}
+
+.personalinfo {
+    display: flex;
+    justify-content: space-evenly;
+
+    padding: 100px;
+
+    background-color: beige;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    
+    background-color: rgb(99, 89, 89);
+}
+.userlink{
+    display: flex;
+    align-items: center;
+    
+}
+.useritem {
+    color: white;
+    margin-left: 10px;
+}
