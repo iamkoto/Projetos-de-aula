@@ -20,10 +20,11 @@
     display: flex;
     justify-content: space-evenly;
 
-    padding: 100px;
+    padding: 100px 20px;
 
     background-color: beige;
 }
+
 .footer {
     display: flex;
     justify-content: space-between;
